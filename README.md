@@ -15,7 +15,7 @@
 - Supervised practicum activities as per schedule and objectives.
 - Assisted students in both laboratory and field activities.
 
-### [Barokah Farmer Association Mijen - Semarang, Central Java]
+### [Barokah Farmer Association Mijen - Semarang, Central Java](https://www.rikolto.org/stories/not-your-average-coffee-innovation-and-sustainable-practices-for-high-quality-kerinci-specialty-coffee)
 #### Laboratory and Field Assistant _(June 2022 - Aug 2022)_
 
 - Participated in plant propagation, maintenance, organic fertilizer production, and other in-field activities.
