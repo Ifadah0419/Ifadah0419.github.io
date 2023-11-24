@@ -82,4 +82,5 @@
 - Bahasa Indonesia (native)
 - Indonesian (native)
 - English (advanced)
+- Arabic (advanced)
 - Mandarin Chinese (advanced)
