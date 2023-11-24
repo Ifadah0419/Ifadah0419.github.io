@@ -28,12 +28,26 @@
 - Planned, organized, and conducted research programs.
 - Collected data, conducted analysis, wrote manuscripts, and published results.
 
-### [Rembang FABs (Scholarship Awardee Forum)](https://www.ted.com/topics/sustainability)
+### [Rembang FABs (Scholarship Awardee Forum)](https://www.instagram.com/rembangfabs.id/?hl=en)
 #### Research Division Leader  _(Jun 2021 – April 2022)_
 
 - Led team members in implementing work programs and ensured their smooth execution.
 - Planned, organized, and provided consultations for members to achieve targets.
 - Collected data, conducted analysis, wrote manuscripts, and published results.
+
+
+### [IAAS Asia Pacific](https://www.linkedin.com/company/iaas-asia-pacific)
+#### Quality Board of Scientific Content Creator  _(May 2021 – March 2022)_
+
+- Created Instagram content to promote sustainable living, environmental awareness, and historical topics.
+- Wrote articles on Medium to promote sustainable agriculture practices and environmental conservation.
+
+
+### [IAAS LC Undip](https://undip.iaas.or.id/)
+#### Project Departemen Staff  _(Dec 2019 – Nov 2021)_
+
+- Led community service projects in Gemawang Village, Semarang.
+- Collaborated with other staff members to implement work programs.
 
 
 ## RESEARCH & PROJECTS
@@ -50,24 +64,22 @@
 
 ## SKILLS
 #### Programming Languages
- - JavaScript 
  - HTML5/CSS 
- - Python (currently self-teaching)
+ - Python
+ - MATLAB
 
-#### Technologies/Frameworks
-- Node.js
-- React
-- Redux
-- PostgreSQL
-- MySQL
-- MongoDB
-- Express.js
-- iOS Development (beginner)
-- AWS
+#### Technologies
+- Microsoft Office
+- MATLAB
+- SolidWorks
+- Simulink
+- Ansys
 - Git & GitHub
-- Agile Methodology
+- Teamwork
+- Fieldwork (sampling)
 
 #### Human Languages 
-- Spanish (native)
-- English (native)
-- French (advanced)
+- Bahasa Indonesia (native)
+- Indonesian (native)
+- English (advanced)
+- Mandarin Chinese (advanced)
