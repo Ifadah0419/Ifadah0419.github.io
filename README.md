@@ -3,7 +3,7 @@
  [Contact Me](mailto:ifadah0419@outlook.com) | [LinkedIn](https://id.linkedin.com/in/muhimmatul-ifadah-087b451b8) | [Website](https://github.com/Ifadah0419/) | [GitHub](https://github.com/Ifadah0419/) |
 
 ## EDUCATION
-#### BS in Agroecotechnology - May 2023
+#### BS (with Honors) in Agroecotechnology - May 2023
 #### [Diponegoro University](https://www.undip.ac.id/language/en/home)
 
 ## EXPERIENCE
