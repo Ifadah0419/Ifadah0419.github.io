@@ -15,14 +15,13 @@
 - Supervised practicum activities as per schedule and objectives.
 - Assisted students in both laboratory and field activities.
 
-
-#### Barokah Farmer Association Mijen - Semarang, Central Java @ _(June 2022 - Aug 2022)_
+### [Barokah Farmer Association Mijen - Semarang, Central Java]
+#### Laboratory and Field Assistant _(June 2022 - Aug 2022)_
 
 - Participated in plant propagation, maintenance, organic fertilizer production, and other in-field activities.
 - Assisted in fruit festivals and farmer association gatherings.
 - Educated kindergarten students about farming.
 
-______
 ### [Talk Sustainable](https://www.ted.com/topics/sustainability)
 #### Data Analyst  _(June 2022 – Dec 2022)_
 
