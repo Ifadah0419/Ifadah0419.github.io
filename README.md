@@ -1,19 +1,19 @@
 
   📱 
- [Contact Me](mailto:leiracodes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leirasanchez/) | [Twitter](https://twitter.com/MechEngSanchez) | [Website](http://leirasanchez.com) | [GitHub](https://github.com/leira-sanchez/) | [DEV](https://dev.to/leirasanchez)
+ [Contact Me](mailto:ifadah0419@outlook.com) | [LinkedIn](https://id.linkedin.com/in/muhimmatul-ifadah-087b451b8) | [Website](https://github.com/Ifadah0419/) | [GitHub](https://github.com/Ifadah0419/) |
 
 ## EDUCATION
-#### BS in Mechanical Engineering - Dec 2018
-#### [University of Puerto Rico - Mayagüez](http://uprm.edu)
+#### BS in Agroecotechnology - May 2023
+#### [Diponegoro University](https://www.undip.ac.id/language/en/home)
 
 ## EXPERIENCE
 
-### [Capital One](http://capitalone.com)
-#### Associate Software Engineer _(Aug 2019 - present)_
+### [Universitas Diponegoro](https://www.undip.ac.id/language/en/home))
+#### Laboratory and Field Assistant _(Aug 2021 – May 2023)_
 
-- Designed and developed an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$8.4MM**
-- Engaged stakeholders to anticipate customer needs and rapidly prototype solutions
-- Collaborated within a team using an **Agile** development workflow and collaboration practices in **Git & Github**
+- Planned and organized practicum activities, graded students’ submissions, and reported to the lecturer.
+- Supervised practicum activities as per schedule and objectives.
+- Assisted students in both laboratory and field activities.
 
 
 #### Associate Software Engineer in Training @ _(Feb 2019 - present)_
