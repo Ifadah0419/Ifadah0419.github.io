@@ -1,5 +1,5 @@
 
-  📱 
+  📱 📧
  [Contact Me](mailto:ifadah0419@outlook.com) | [LinkedIn](https://id.linkedin.com/in/muhimmatul-ifadah-087b451b8) | [Website](https://github.com/Ifadah0419/) | [GitHub](https://github.com/Ifadah0419/) |
 
 ## EDUCATION
