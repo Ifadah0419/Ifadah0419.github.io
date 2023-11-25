@@ -7,7 +7,7 @@
 #### [Diponegoro University](https://www.undip.ac.id/language/en/home)
 
 ## PROJECTS
-![Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://github.com/Ifadah0419/Projects/haiti_dominicanrepublic_border.jpg?raw=true)
+![Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://github.com/Ifadah0419/Projects/haiti_dominicanrepublic_border.jpg)
 
 ## Open Source Robots
 ### Rovers and Cars
