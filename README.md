@@ -9,14 +9,14 @@
 ## PROJECTS
 ### [Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/ERf3fpXMU1BNi3qUyLoj0vYBOydqHAP0oxhMQ8fkDGMNXQ?e=lwU1Ax)
 
-### [Modeling a Greenhouse with Heat Sink] (https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZi7rBznkulEtOOi8e6BEWgBpuarksKnT3XJiYPbMURNrw?e=n4d3fA)
+### [Modeling a Greenhouse with Heat Sink](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZi7rBznkulEtOOi8e6BEWgBpuarksKnT3XJiYPbMURNrw?e=n4d3fA)
 
 ## Publications
 ### [(In Indonesian) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EeuE0JdNXQhArFspstikel8Bl-lY2r_jMTYml7TeaFwg9g?e=LXkkSP)
 
-### [(In English) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural] (https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZ1remYjLQlKnQ9zkwUvj6MBnIDuOVUrjSJKI-kp14wFWQ?e=8ERWUa)
+### [(In English) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZ1remYjLQlKnQ9zkwUvj6MBnIDuOVUrjSJKI-kp14wFWQ?e=8ERWUa)
 
-### [The Effects of Instagram-Based Information Dissemination and the Perceived Green Value on Z-Generation’s Interest in Thrifting_769-Article Text-2325-1-10-20230801] (https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EUNrSPC8gkxNuMLINYlscgYBI2t7RbHC0VN1_PXSI7FJLg?e=Fv74KC)
+### [The Effects of Instagram-Based Information Dissemination and the Perceived Green Value on Z-Generation’s Interest in Thrifting_769-Article Text-2325-1-10-20230801](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EUNrSPC8gkxNuMLINYlscgYBI2t7RbHC0VN1_PXSI7FJLg?e=Fv74KC)
 
 
 
