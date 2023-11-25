@@ -10,11 +10,9 @@
 ### Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation
 ![Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://github.com/Ifadah0419/Projects/blob/1c27ad2845dd123d484ed700e7ac1f67699b61b3/Haiti%20Calls%20for%20Soil-Fertility-Rejuvenation%2C%20Soil-Erosion-Amelioration%2C%20and%20Afforestation.pdf)
 
+### Modeling a Greenhouse with Heat Sink
+![Modeling a Greenhouse with Heat Sink](https://github.com/Ifadah0419/Projects/blob/a54d5ce1e94de611d71ed1174231e22248c167a2/Modeling%20a%20Greenhouse%20with%20Heat%20Sink.pdf)
 
-## Open Source Robots
-### Rovers and Cars
- * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. Licence: The preferred license for TurtleBot hardware documentation is the FreeBSD Documentation License.
- * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
 
 ## EXPERIENCE
 
