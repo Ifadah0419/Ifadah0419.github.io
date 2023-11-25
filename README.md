@@ -7,17 +7,14 @@
 #### [Diponegoro University](https://www.undip.ac.id/language/en/home)
 
 ## PROJECTS
-### Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation
-![Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://github.com/Ifadah0419/Projects/blob/1c27ad2845dd123d484ed700e7ac1f67699b61b3/Haiti%20Calls%20for%20Soil-Fertility-Rejuvenation%2C%20Soil-Erosion-Amelioration%2C%20and%20Afforestation.pdf)
+### [Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/ERf3fpXMU1BNi3qUyLoj0vYBOydqHAP0oxhMQ8fkDGMNXQ?e=lwU1Ax)
 
-### Modeling a Greenhouse with Heat Sink
-![Modeling a Greenhouse with Heat Sink](https://github.com/Ifadah0419/Projects/blob/a54d5ce1e94de611d71ed1174231e22248c167a2/Modeling%20a%20Greenhouse%20with%20Heat%20Sink.pdf)
+### [Modeling a Greenhouse with Heat Sink] (https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZi7rBznkulEtOOi8e6BEWgBpuarksKnT3XJiYPbMURNrw?e=n4d3fA)
 
 ## Publications
-### The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural
-![(In Indonesian)The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural _18000-68702-1-PB](https://github.com/Ifadah0419/Projects/blob/c0b9ddd2c0fdcce44869351235d246f95bc68c8b/The%20Success%20of%20Grape%20(Vitis%20vinifera%20L.)%20Cuttings%20on%20Various%20Applications%20of%20Natural%20_18000-68702-1-PB.pdf)
+### [(In Indonesian) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EeuE0JdNXQhArFspstikel8Bl-lY2r_jMTYml7TeaFwg9g?e=LXkkSP)
 
-![(In English) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural _18000-68702-1-PB](https://github.com/Ifadah0419/Projects/blob/c0b9ddd2c0fdcce44869351235d246f95bc68c8b/(en)%20The%20Success%20of%20Grape%20(Vitis%20vinifera%20L.)%20Cuttings%20on%20Various%20Applications%20of%20Natural%20_18000-68702-1-PB.pdf)
+### [(In English) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural] (https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZ1remYjLQlKnQ9zkwUvj6MBnIDuOVUrjSJKI-kp14wFWQ?e=8ERWUa)
 
 ### The Effects of Instagram-Based Information Dissemination and the Perceived Green Value on Z-Generation’s Interest in Thrifting_769-Article Text-2325-1-10-20230801
 ![The Effects of Instagram-Based Information Dissemination and the Perceived Green Value on Z-Generation’s Interest in Thrifting_769-Article Text-2325-1-10-20230801](https://github.com/Ifadah0419/Projects/blob/1f1b4b7f9660aa87a41477796127d3d93ec7b0f8/The%20Effects%20of%20Instagram-Based%20Information%20Dissemination%20and%20the%20Perceived%20Green%20Value%20on%20Z-Generation%E2%80%99s%20Interest%20in%20Thrifting_769-Article%20Text-2325-1-10-20230801.pdf)
