@@ -26,6 +26,9 @@
 
 ### [(In English) Pengenalan dan Pelatihan Digital Marketing Pupuk Organik Cair pada Ibu PKK Dusun Semen_12919-42972-1-PB](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EQkYZmLdIlRMi1kVHK62DgsBytOwyWeYIRH4IM58nELMzw?e=JP13ge)
 
+### [(In Indonesian) Penyuluhan Pembuatan Pupuk Organik Cair Eceng Gondok dan Keong Mas sebagai Upaya Pemberdayaan bagi Ibu PKK di Desa Tlompakan Kabupaten Semarang_4002-13956-1-PB](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EdHyLmYwpMNEgOQGafsBFsMBIDTij4vyTpTCfRhQXVXH9g?e=r8gzrN)
+
+### [(In English) Penyuluhan Pembuatan Pupuk Organik Cair Eceng Gondok dan Keong Mas sebagai Upaya Pemberdayaan bagi Ibu PKK di Desa Tlompakan Kabupaten Semarang_4002-13956-1-PB](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EWgGa-CVEgdAq2KGnd5-bJUBwkQadN13cFH5HDvCy9lsEg?e=v4Lfa0)
 
 
 ## EXPERIENCE
