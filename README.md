@@ -22,6 +22,10 @@
 
 ### [(In English) Pelatihan Pembuatan Pupuk Organik Cair Eceng Gondok dan Keong Mas di Dusun Semen Kabupaten Semarang](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EYs2tjqu9MxIhsGW_dNdFCQBWtktJafg3i52H-NdmtY22w?e=Zn6vhr)
 
+### [(In Indonesian) Pengenalan dan Pelatihan Digital Marketing Pupuk Organik Cair pada Ibu PKK Dusun Semen_12919-42972-1-PB](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/Ea8vfE0thT5HraCD_KWnIzUB0YW1lx2QlnAnja-IjifEMw?e=3zk9G0)
+
+### [(In English) Pengenalan dan Pelatihan Digital Marketing Pupuk Organik Cair pada Ibu PKK Dusun Semen_12919-42972-1-PB](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EQkYZmLdIlRMi1kVHK62DgsBytOwyWeYIRH4IM58nELMzw?e=JP13ge)
+
 
 
 ## EXPERIENCE
