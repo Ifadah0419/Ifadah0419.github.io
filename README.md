@@ -13,9 +13,14 @@
 ### Modeling a Greenhouse with Heat Sink
 ![Modeling a Greenhouse with Heat Sink](https://github.com/Ifadah0419/Projects/blob/a54d5ce1e94de611d71ed1174231e22248c167a2/Modeling%20a%20Greenhouse%20with%20Heat%20Sink.pdf)
 
+## Publications
+### The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural
+![(In Indonesian)The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural _18000-68702-1-PB](https://github.com/Ifadah0419/Projects/blob/c0b9ddd2c0fdcce44869351235d246f95bc68c8b/The%20Success%20of%20Grape%20(Vitis%20vinifera%20L.)%20Cuttings%20on%20Various%20Applications%20of%20Natural%20_18000-68702-1-PB.pdf)
+
+![(In English) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural _18000-68702-1-PB](https://github.com/Ifadah0419/Projects/blob/c0b9ddd2c0fdcce44869351235d246f95bc68c8b/(en)%20The%20Success%20of%20Grape%20(Vitis%20vinifera%20L.)%20Cuttings%20on%20Various%20Applications%20of%20Natural%20_18000-68702-1-PB.pdf)
+
 
 ## EXPERIENCE
-
 ### [Universitas Diponegoro - Semarang, Central Java](https://www.undip.ac.id/language/en/home))
 #### Laboratory and Field Assistant _(Aug 2021 – May 2023)_
 
@@ -83,8 +88,6 @@
 - Simulink
 - Ansys
 - Git & GitHub
-- Teamwork
-- Fieldwork (sampling)
 
 #### Human Languages 
 - Bahasa Indonesia (native)
@@ -92,3 +95,10 @@
 - English (advanced)
 - Arabic (advanced)
 - Mandarin Chinese (advanced)
+
+#### Other
+- cross-cultural communications
+- teamwork
+- fieldwork (grafting, sampling)
+- CPR & first aid
+
