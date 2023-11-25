@@ -18,6 +18,9 @@
 
 ### [The Effects of Instagram-Based Information Dissemination and the Perceived Green Value on Z-Generation’s Interest in Thrifting_769-Article Text-2325-1-10-20230801](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EUNrSPC8gkxNuMLINYlscgYBI2t7RbHC0VN1_PXSI7FJLg?e=Fv74KC)
 
+### [(In Indonesian) Pelatihan Pembuatan Pupuk Organik Cair Eceng Gondok dan Keong Mas di Dusun Semen Kabupaten Semarang](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EcOYVBVQBDNKv_E7iZTbZ4EBg0tYN1ynF3Jb5ppRRyHTIQ?e=U6fRZg)
+
+### [(In English) Pelatihan Pembuatan Pupuk Organik Cair Eceng Gondok dan Keong Mas di Dusun Semen Kabupaten Semarang](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EYs2tjqu9MxIhsGW_dNdFCQBWtktJafg3i52H-NdmtY22w?e=Zn6vhr)
 
 
 
