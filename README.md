@@ -6,6 +6,13 @@
 #### BS (with Honors) in Agroecotechnology - May 2023
 #### [Diponegoro University](https://www.undip.ac.id/language/en/home)
 
+## PROJECTS
+
+## Open Source Robots
+### Rovers and Cars
+ * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. Licence: The preferred license for TurtleBot hardware documentation is the FreeBSD Documentation License.
+ * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
+
 ## EXPERIENCE
 
 ### [Universitas Diponegoro - Semarang, Central Java](https://www.undip.ac.id/language/en/home))
