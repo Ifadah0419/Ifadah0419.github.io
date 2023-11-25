@@ -1,6 +1,6 @@
 
-  📱📧
- [Contact Me](mailto:ifadah0419@outlook.com) | [LinkedIn](https://id.linkedin.com/in/muhimmatul-ifadah-087b451b8) | [Website](https://github.com/Ifadah0419/) | [GitHub](https://github.com/Ifadah0419/) |
+ 📧
+ [Contact Me](mailto:ifadah0419@outlook.com) | [LinkedIn](https://id.linkedin.com/in/muhimmatul-ifadah-087b451b8) | [Website](https://ceritaifadah.wordpress.com/) | [GitHub](https://github.com/Ifadah0419/) |
 
 ## EDUCATION
 #### BS (with Honors) in Agroecotechnology - May 2023
