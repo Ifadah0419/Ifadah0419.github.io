@@ -19,6 +19,9 @@
 
 ![(In English) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural _18000-68702-1-PB](https://github.com/Ifadah0419/Projects/blob/c0b9ddd2c0fdcce44869351235d246f95bc68c8b/(en)%20The%20Success%20of%20Grape%20(Vitis%20vinifera%20L.)%20Cuttings%20on%20Various%20Applications%20of%20Natural%20_18000-68702-1-PB.pdf)
 
+### The Effects of Instagram-Based Information Dissemination and the Perceived Green Value on Z-Generation’s Interest in Thrifting_769-Article Text-2325-1-10-20230801
+
+
 
 ## EXPERIENCE
 ### [Universitas Diponegoro - Semarang, Central Java](https://www.undip.ac.id/language/en/home))
