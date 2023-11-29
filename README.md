@@ -11,7 +11,7 @@
 
 ### [Modeling a Greenhouse with Heat Sink](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZi7rBznkulEtOOi8e6BEWgBpuarksKnT3XJiYPbMURNrw?e=n4d3fA)\
 
-### [(In Indonesian) Liquid Organic Fertilizer; Water Hyacinth & Golden Snail] (http://eprint.unipma.ac.id/155/1/79.%20pupuk%20organik%20cair.pdf)
+### [(In Indonesian)Liquid Organic Fertilizer; Water Hyacinth & Golden Snail](http://eprint.unipma.ac.id/155/1/79.%20pupuk%20organik%20cair.pdf)
 
 ## Publications
 ### [(In Indonesian) The Success of Grape (Vitis vinifera L.) Cuttings on Various Applications of Natural](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EeuE0JdNXQhArFspstikel8Bl-lY2r_jMTYml7TeaFwg9g?e=LXkkSP)
@@ -54,7 +54,7 @@
 - Planned, organized, and conducted research programs.
 - Collected data, conducted analysis, wrote manuscripts, and published results.
   
-### [Tanya Marlo] (https://tanyamarlo.id/)
+### [Tanya Marlo](https://tanyamarlo.id/)
 #### Brand People _(Feb 2022 - May 2022)_
 
 - Promoting Tanya Marlo services among youth generations in Semarang area through social media such as Instagram, Line open chat, 
@@ -92,7 +92,7 @@ telegram, and whatsapp.
 #### Thesis Research Project _(June 2022 - January 2023)_
 - Natural planth growth regulators increased the number of roots, fresh weight and sry weight up to 15% compared to the control group.
 
-### [Net Impact - Diponegoro Chapter] (https://ceritaifadah.wordpress.com/net-impact-diponegoro-chapter/)
+### [Net Impact - Diponegoro Chapter](https://ceritaifadah.wordpress.com/net-impact-diponegoro-chapter/)
 #### Organizer  _(March 2021 - January 2022)_
 - Planned, organized and Led a community services regarding organic waste management
 - Provided consultations, mentoring, and suggestions.
