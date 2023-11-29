@@ -3,8 +3,18 @@
  [Contact Me](mailto:ifadah0419@outlook.com) | [LinkedIn](https://id.linkedin.com/in/muhimmatul-ifadah-087b451b8) | [Website](https://ceritaifadah.wordpress.com/) | [GitHub](https://github.com/Ifadah0419/) |
 
 ## EDUCATION
+## Degree
 #### BS (with Honors) in Agroecotechnology - May 2023
 #### [Diponegoro University](https://www.undip.ac.id/language/en/home)
+
+### Non-Degree 
+#### Innovation and Entrepreneurship, _August 2020_
+#### [Asia University](https://web.asia.edu.tw)
+#### Language and Culture, _August 2021_
+#### [Asia University](https://web.asia.edu.tw)
+#### Carbon Neutrality, _August 2022_
+#### [Zhejiang University](https://www.zju.edu.cn/english/)
+
 
 ## PROJECTS & BOOK
 ### [Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/ERf3fpXMU1BNi3qUyLoj0vYBOydqHAP0oxhMQ8fkDGMNXQ?e=lwU1Ax)
