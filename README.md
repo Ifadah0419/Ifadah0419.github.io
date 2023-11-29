@@ -9,7 +9,7 @@
 ## PROJECTS & BOOK
 ### [Haiti Calls for Soil-Fertility-Rejuvenation, Soil-Erosion-Amelioration, and Afforestation](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/ERf3fpXMU1BNi3qUyLoj0vYBOydqHAP0oxhMQ8fkDGMNXQ?e=lwU1Ax)
 
-### [Modeling a Greenhouse with Heat Sink](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZi7rBznkulEtOOi8e6BEWgBpuarksKnT3XJiYPbMURNrw?e=n4d3fA)\
+### [Modeling a Greenhouse with Heat Sink](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/zeng_537_buckeyemail_osu_edu/EZi7rBznkulEtOOi8e6BEWgBpuarksKnT3XJiYPbMURNrw?e=n4d3fA)
 
 ### [(In Indonesian)Liquid Organic Fertilizer; Water Hyacinth & Golden Snail](http://eprint.unipma.ac.id/155/1/79.%20pupuk%20organik%20cair.pdf)
 
@@ -83,8 +83,8 @@ telegram, and whatsapp.
 
 ## RESEARCH & PROJECTS
 
-### [Influence of Instagram Informations and Perceived green value on Gen Z thrifting interest ] 
-#### Tim 2 Leader Talk Sustainable Reserach project _(June 2022 - December 2022)_
+### [Influence of Instagram Informations and Perceived green value on Gen Z thrifting interest ](https://drive.google.com/file/d/1JEmqDczOgXQVq5q_-t6LgGvrBcG8XNCi/view?usp=sharing)
+#### Data Analyst Talk Sustainable Reserach Project _(June 2022 - December 2022)_
 - Sharing  green-value related information on Instagram has a positive effect on  thrifting  purchase  intentions;
 - The  perceived  green values and The subjective norms are detected as a mediating role  in  the  thrifting  behaviors.
   
