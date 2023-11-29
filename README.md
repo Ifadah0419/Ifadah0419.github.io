@@ -118,7 +118,7 @@ telegram, and whatsapp.
 - Microsoft Office
 - Google Workspace
 - Trello
-- AirTable
+- Airtable
 - MATLAB
 - STAR (IRRI)
 - GelAnalyzer
